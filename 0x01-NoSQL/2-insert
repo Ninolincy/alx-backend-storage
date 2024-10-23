@@ -1,0 +1,2 @@
+// inserts a document in the collection school
+use db. school. insert("Holberton school");
